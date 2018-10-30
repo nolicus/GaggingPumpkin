@@ -6,14 +6,12 @@ Team 2
 This pumpkin detects when a hand is inserted into the "mouth" and triggers a
 sound effect from some internal speakers.
 
-![ALT_TEXT]image_final.jpg
-
 ## Bill of Materials
 
 You can modify the design according to your specific application. For our design
 we used the folling parts. 
 
-image_parts.jpg
+![alt text] [IMG-0099.jpg]
 
 - Teensy 3.2                                        1
 - Alps Commet Breakoutboard                         1
