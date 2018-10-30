@@ -11,8 +11,6 @@ sound effect from some internal speakers.
 You can modify the design according to your specific application. For our design
 we used the folling parts. 
 
-![alt text] (https://github.com/nolicus/GaggingPumpkin/blob/master/IMG-0099.JPG)
-
 - Teensy 3.2                                        1
 - Alps Commet Breakoutboard                         1
 - Prototype Perf Board                              1
